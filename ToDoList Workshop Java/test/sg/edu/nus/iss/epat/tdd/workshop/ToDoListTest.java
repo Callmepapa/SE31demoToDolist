@@ -29,6 +29,7 @@ public class ToDoListTest extends TestCase {
 	 t1 = new Task("t1 goes for swimming pool",true); 
 	 t2 = new Task("t2 goes for playing golf",false);
 	 todolist = new ToDoList();
+	 //test
    }
 
    @After
